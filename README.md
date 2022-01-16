@@ -1,5 +1,4 @@
 Ejercicios iniciales en frameworks de JavaScript
-
 *Contador clicks. Ejemplo como para hacer una app que indique los lugares disponibles.*
 
 React: Demo en CodeSandbox
