@@ -1,9 +1,12 @@
-**Ejercicios iniciales en frameworks de JavaScript**
+**Ejercicios iniciales en frameworks de JavaScript:**
 
-*Contador de espacios disponibles dentro de un elemento.*
-
+. Contador de espacios disponibles dentro de un elemento.
 React: Demo en CodeSandbox
 _https://codesandbox.io/s/demo-react-contador-tickets-082yd_
+
+. title.
+framework: que es y en q esta hecho
+_link_
 
 
 ++
