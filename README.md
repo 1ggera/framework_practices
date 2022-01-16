@@ -1,4 +1,4 @@
-Ejercicios iniciales en frameworks de JavaScript
+***Ejercicios iniciales en frameworks de JavaScript***
 *Contador de espacios disponibles dentro de un elemento.*
 
 React: Demo en CodeSandbox
