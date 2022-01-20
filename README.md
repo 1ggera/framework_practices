@@ -3,14 +3,16 @@
 
 *Contador de espacios disponibles dentro de un elemento con React:*
 
-Demo en CodeSandbox  
-
 _https://codesandbox.io/s/demo-react-contador-tickets-082yd_
 
 *********
 
 *Contador de tickets disponibles para ver una pelicula con Angular:*
 
-Demo en CodeSandbox  
+_https://codesandbox.io/s/lw2th_
 
-https://codesandbox.io/s/lw2th
+*********
+
+*Contador de tickets disponibles. App de cine. Vue:*
+
+_https://codesandbox.io/s/contador-tickets-disponibles-vue-v3077_
